@@ -1,0 +1,2 @@
+var = "raza"
+print(var)

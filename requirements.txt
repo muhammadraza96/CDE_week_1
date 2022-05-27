@@ -1,5 +1,4 @@
 pandas
-json
 streamlit==1.9.0
 #from googleapiclient.discovery import build
 #from google.oauth2 import service_account

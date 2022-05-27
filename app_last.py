@@ -7,8 +7,8 @@ from googleapiclient.discovery import build
 import json
 from google.oauth2 import service_account
 
-DATA_URL = "C:\Users\Muhammad Raza\Desktop\KarachiDotAI\week10\final_assignment\modules\final_api_test_sheet.csv"
-df_read=pd.read_csv(DATA_URL)
+#DATA_URL = "C:\Users\Muhammad Raza\Desktop\KarachiDotAI\week10\final_assignment\modules\final_api_test_sheet.csv"
+#df_read=pd.read_csv(DATA_URL)
 '''
 credentials =  service_acc = 
         {

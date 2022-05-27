@@ -44,7 +44,7 @@ except Exception as e:
         print("exception in get_set_jobid: ",str(e))
 
 df = pd.DataFrame(results['values'][1:] , columns = results['values'][0])'''
-DATA_URL = "https://github.com/muhammadraza96/CDE_week_1/blob/master/excel_sheet.csv?raw=true"
+DATA_URL = "https://raw.githubusercontent.com/muhammadraza96/CDE_week_1/master/excel_sheet.csv?raw=true"
 df=pd.read_csv(DATA_URL)
 print(df)
 

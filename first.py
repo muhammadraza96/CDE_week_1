@@ -1,2 +1,0 @@
-var = "raza"
-print(var)
